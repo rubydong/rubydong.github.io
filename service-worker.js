@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/rubydong.github.io/precache-manifest.5331e52d31c7715042b2e57e9d5bb9f1.js"
+  "/rubydong.github.io/precache-manifest.62df2467b8c5f2a80647cc9857c84949.js"
 );
 
 self.addEventListener('message', (event) => {

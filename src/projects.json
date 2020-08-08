@@ -1,0 +1,58 @@
+[
+  {
+    "title": "The Kova",
+    "text": "A website I made for a restaurant in New York City. I took all the photos on the website and added  menu, location, and contact sections.",
+    "link": "https://thekovanyc.com",
+    "color": "#D5C7B8",
+    "img": "img/proj/thekova.png"
+  },
+  {
+    "title": "Fresh Mangoes",
+    "text": "A movies and TV review website based off of Rotten Tomatoes. Built in Java, React, MySQL, HTML, and CSS.",
+    "link": "https://github.com/rubydong/FreshMangoes",
+    "color": "#6294D9",
+    "img": "img/proj/freshmangoes.png"
+  },
+  {
+    "title": "Elderly",
+    "text": "Videochat designed and created for the elderly. Coded in Node.js, Express, HTML, and CSS.",
+    "link": "https://github.com/rubydong/elder.ly",
+    "color": "#C8A4AE",
+    "img": "img/proj/elderly.jpg"
+  },
+  {
+    "title": "Twitter Clone",
+    "text": "A replica of twitter in functionality. Coded in  Node.js, Express, Angular, MongoDB, HTML, and CSS.",
+    "link": "https://github.com/rubydong/twitterclone",
+    "color": "#AFD7E7",
+    "img": "img/proj/twitter.png"
+  },
+  {
+    "title": "Airpedia",
+    "text": "An airline ticket booking website inspired by Expedia. Created in Java, MySQL, JSP, HTML, and CSS.",
+    "link": "https://github.com/rubydong/airpedia",
+    "color": "#CFB8B6",
+    "img": "img/proj/airpedia.png"
+  },
+  {
+    "title": "Charitable Chores",
+    "text": "A mobile app that incentivizes people to do nice things for others at little to no costs. Built in PHP, MySQL, HTML, and CSS.",
+    "link": "https://devpost.com/software/charity-chores",
+    "color": "#B2CD90",
+    "img": "img/proj/charitablechores.png"
+  },
+  {
+    "title": "Pokemon Bot",
+    "text": "Artificial intelligence bot that challenges players on pokemonshowdown.com in real time. Built with Java and Selenium.",
+    "link": "https://github.com/rubydong/Pokemon-AI",
+    "color": "#EDD6E8",
+    "img": "img/proj/pokemon.png"
+  },
+  {
+    "title": "Scenic Music",
+    "text": "A music recommendation service that determines the perfect playlist based on the user's location. Coded in JavaScript, HTML, and CSS.",
+    "link": "https://github.com/rubydong/Scenic-Music",
+    "color": "#9DCAC6",
+    "img": "img/proj/scenicmusic.png"
+  }
+]

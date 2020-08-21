@@ -2,48 +2,64 @@ import React, { Component } from 'react';
 import navigation from './navigation.json';
 
 export class Navigation extends Component {
-    constructor() {
-        super();
-        this.state = {
-            visible: false
-        }
-    }
+  constructor() {
+    super();
+    this.state = {
+      visible: false,
+    };
+  }
 
-    toggleVisible() {
-        this.setState({visible: !this.state.visible});
-    }
+  toggleVisible() {
+    console.log('toggle visible', !this.state.visible);
+    this.setState({ visible: !this.state.visible });
+  }
 
-	render() {
-        let mobileNav = [];
-        let desktopNav = [];
-        navigation.forEach((n, i) => {
-            mobileNav.push(
-                <li key={n.text}>
-                    <a href={n.link} target={n.target} rel="noopener noreferrer">
-                        <span className="nav-text"> {n.text} </span>
-                        <img src={n.img} alt={n.text}/>
-                    </a>
-                </li>
-            );
-            desktopNav.push(
-                <li key={n.text}>
-                    <a href={n.link} target={n.target} rel="noopener noreferrer"> {n.text} </a>
-                </li>
-            );
-        });
-    
-    	return (
-            <div>
-                <div className="menu" onClick={this.toggleVisible.bind(this)}> 
-                    <img src="img/icons/menu.png" alt="menu" /> 
-                </div>
-                
-                {this.state.visible ? <div id="navbar"> <ul> {mobileNav} </ul></div> : ''}
-                
-                <div id="full-navbar">
-                    <ul>{desktopNav}</ul>
-                </div>
-            </div>
-    	);
-  	}
+  toggleOff() {
+    console.log('off');
+    this.setState({ visible: false });
+  }
+
+  render() {
+    let mobileNav = [];
+    let desktopNav = [];
+    navigation.forEach((n, i) => {
+      mobileNav.push(
+        <li onClick={this.toggleOff.bind(this)} key={n.text}>
+          <a href={n.link} target={n.target} rel="noopener noreferrer">
+            <span className="nav-text"> {n.text} </span>
+            <img src={n.img} alt={n.text} />
+          </a>
+        </li>
+      );
+      desktopNav.push(
+        <li key={n.text}>
+          <a href={n.link} target={n.target} rel="noopener noreferrer">
+            {' '}
+            {n.text}{' '}
+          </a>
+        </li>
+      );
+    });
+
+    return (
+      <div>
+        <div className="menu" onClick={this.toggleVisible.bind(this)}>
+          <img src="img/icons/menu.png" alt="menu" />
+        </div>
+
+        {this.state.visible ? (
+          <div id="navbar">
+            {' '}
+            <ul> {mobileNav} </ul>
+          </div>
+        ) : (
+          ''
+        )}
+
+        <div id="full-navbar">
+          <ul>{desktopNav}</ul>
+        </div>
+      </div>
+    );
+  }
 }

@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1be4a0a367779b540a4e34365755422b",
+    "revision": "4bebb212d42b2c411019077799b1bb83",
     "url": "/rubydong.github.io/index.html"
   },
   {
-    "revision": "2f9deb4adfe4f46e94ca",
+    "revision": "066519afebffca373c6f",
     "url": "/rubydong.github.io/static/css/main.a33ec1bf.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/rubydong.github.io/static/js/2.2e956f51.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2f9deb4adfe4f46e94ca",
-    "url": "/rubydong.github.io/static/js/main.0704d445.chunk.js"
+    "revision": "066519afebffca373c6f",
+    "url": "/rubydong.github.io/static/js/main.d4ffa403.chunk.js"
   },
   {
     "revision": "723d39fb1072f22d217e",

@@ -11,12 +11,11 @@ const IndexPage = (): ReactElement => (
         <div className="bio-desc">
           <div className="text">
             <h2>Hello, I'm Ruby</h2>I am currently a software engineer working
-            for UiPath, with a history of working at IBM and The Corcoran Group.
-            My passion for creating fun things has led me to love both coding
-            and designing. When I am not doing either of those things, you might
-            find me exploring new cities, watercolor painting, strumming my
-            ukulele, playing piano, skateboarding, or capturing my favorite
-            moments through photography.
+            for UiPath. My passion for creating fun things has led me to love
+            both coding and designing. When I am not doing either of those
+            things, you might find me exploring new cities, watercolor painting,
+            strumming my ukulele, playing piano, skateboarding, or capturing my
+            favorite moments through photography.
           </div>
         </div>
       </div>

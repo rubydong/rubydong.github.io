@@ -1,0 +1,44 @@
+[
+  {
+    "link": "/",
+    "text": "Home",
+    "img": "img/icons/about.png",
+    "target": "_self"
+  },
+  {
+    "link": "/projects",
+    "text": "Projects",
+    "img": "img/icons/projects.png",
+    "target": "_self"
+  },
+  {
+    "link": "/photography",
+    "text": "Photography",
+    "img": "img/icons/photography.png",
+    "target": "_self"
+  },
+  {
+    "link": "/Ruby%20Dong%20Resume.pdf",
+    "text": "Resume",
+    "img": "img/icons/resume.png",
+    "target": "_blank"
+  },
+  {
+    "link": "http://github.com/rubydong",
+    "text": "GitHub",
+    "img": "img/icons/github.png",
+    "target": "_blank"
+  },
+  {
+    "link": "https://www.linkedin.com/in/rubydong1",
+    "text": "LinkedIn",
+    "img": "img/icons/linkedin.png",
+    "target": "_blank"
+  },
+  {
+    "link": "http://instagram.com/iscreamforuby",
+    "text": "Instagram",
+    "img": "img/icons/instagram.png",
+    "target": "_blank"
+  }
+]

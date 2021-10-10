@@ -1,0 +1,78 @@
+[
+  {
+    "place1": "New York City",
+    "place2": "New York",
+    "color1": "#85A2AF",
+    "color2": "#CFC9C0",
+    "images": ["img/photography/carousel.JPG", "img/photography/oculus.JPG"]
+  },
+  {
+    "place1": "Kyoto & Osaka",
+    "place2": "Japan",
+    "color1": "#9FC69F",
+    "color2": "#AAA8AB",
+    "images": ["img/photography/bamboo.JPG", "img/photography/osakacastle.JPG"]
+  },
+  {
+    "place1": "Tokyo",
+    "place2": "Japan",
+    "color1": "#778B9C",
+    "color2": "#B0BCC6",
+    "images": [
+      "img/photography/tokyoshibuya.JPG",
+      "img/photography/tokyomirror.JPG"
+    ]
+  },
+  {
+    "place1": "London",
+    "place2": "England",
+    "color1": "#ECCA93",
+    "color2": "#9A6573",
+    "images": [
+      "img/photography/londonferris.JPG",
+      "img/photography/teatime.JPG"
+    ]
+  },
+  {
+    "place1": "Paris",
+    "place2": "France",
+    "color1": "#A0B980",
+    "color2": "#D6C4B5",
+    "images": ["img/photography/louvre.JPG", "img/photography/parispark.JPG"]
+  },
+  {
+    "place1": "O'ahu",
+    "place2": "Hawaii",
+    "color1": "#9CBFE4",
+    "color2": "#98ACB4",
+    "images": [
+      "img/photography/hawaii_beach.jpg",
+      "img/photography/hawaii_hike.jpg"
+    ]
+  },
+  {
+    "place1": "Seattle",
+    "place2": "Washington",
+    "color1": "#CDA565",
+    "color2": "#AECBDF",
+    "images": ["img/photography/spaceneedle.JPG", "img/photography/garden.JPG"]
+  },
+
+  {
+    "place1": "LA & SF",
+    "place2": "California",
+    "color1": "#A7B6C0",
+    "color2": "#CCA5B3",
+    "images": ["img/photography/labeach.JPG", "img/photography/sfbeach.JPG"]
+  },
+  {
+    "place1": "Montreal",
+    "place2": "Canada",
+    "color1": "#8FA07C",
+    "color2": "#9FA8A6",
+    "images": [
+      "img/photography/montrealunderground.JPG",
+      "img/photography/montrealflower.JPG"
+    ]
+  }
+]

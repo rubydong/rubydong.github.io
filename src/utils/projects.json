@@ -1,0 +1,38 @@
+[
+  {
+    "title": "The Kova",
+    "text": "A website I made for a restaurant in New York City. I took all the photos on the website and added  menu, location, and contact sections.",
+    "link": "https://thekovanyc.com",
+    "color": "#D5C7B8",
+    "img": "img/proj/thekova.png"
+  },
+
+  {
+    "title": "Split Calculator",
+    "text": "A web application meant for splitting group expenses",
+    "link": "http://rubydong.me/split",
+    "color": "#a5c0cc",
+    "img": "img/proj/split.png"
+  },
+  {
+    "title": "Elderly",
+    "text": "Videochat designed and created for the elderly. Coded in Node.js, Express, HTML, and CSS.",
+    "link": "https://github.com/rubydong/elder.ly",
+    "color": "#C8A4AE",
+    "img": "img/proj/elderly.jpg"
+  },
+  {
+    "title": "Fresh Mangoes",
+    "text": "A movies and TV review website based off of Rotten Tomatoes. Built in Java, React, MySQL, HTML, and CSS.",
+    "link": "https://github.com/rubydong/FreshMangoes",
+    "color": "#6294D9",
+    "img": "img/proj/freshmangoes.png"
+  },
+  {
+    "title": "Pokemon Bot",
+    "text": "Artificial intelligence bot that challenges players on pokemonshowdown.com in real time. Built with Java and Selenium.",
+    "link": "https://github.com/rubydong/Pokemon-AI",
+    "color": "#EDD6E8",
+    "img": "img/proj/pokemon.png"
+  }
+]

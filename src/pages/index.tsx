@@ -10,11 +10,11 @@ const IndexPage = (): ReactElement => (
         </div>
         <div className="bio-desc">
           <div className="text">
-            <h2>Hello, I'm Ruby</h2>
-            I am a software engineer who loves coding and designing. When I am not doing either of those
-            things, you might find me exploring new cities, watercolor painting,
-            strumming my ukulele, playing piano, skateboarding, or capturing my
-            favorite moments through photography.
+            <h2>Hello, I'm Ruby</h2>I am a software engineer who loves coding
+            and designing. When I am not doing either of those things, you might
+            find me exploring new cities, watercolor painting, strumming my
+            ukulele, playing piano, skateboarding, or capturing my favorite
+            moments through photography.
           </div>
         </div>
       </div>

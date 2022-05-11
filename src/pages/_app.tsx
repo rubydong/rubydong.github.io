@@ -9,7 +9,6 @@ export const App = ({ Component, pageProps }: AppProps): ReactElement => (
   <>
     <Head>
       <title>Ruby Dong</title>
-      {/* TODO: update favicon */}
       <link rel="icon" href="/favicon.ico" />
     </Head>
     <Navigation />

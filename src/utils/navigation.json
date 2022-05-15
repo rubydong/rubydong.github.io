@@ -18,12 +18,6 @@
     "target": "_self"
   },
   {
-    "link": "http://github.com/rubydong",
-    "text": "GitHub",
-    "img": "img/icons/github.png",
-    "target": "_blank"
-  },
-  {
     "link": "https://www.linkedin.com/in/rubydong1",
     "text": "LinkedIn",
     "img": "img/icons/linkedin.png",

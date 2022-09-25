@@ -29,7 +29,7 @@ const PhotographyPage = (): ReactElement => {
   return (
     <div className="landing">
       <div id="photography">
-        <h1> My Photography </h1>
+        <h1> My Photos </h1>
         <hr />
         {photographyContent}
       </div>

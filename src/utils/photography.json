@@ -32,6 +32,16 @@
       "img/photography/londonferris.JPG",
       "img/photography/teatime.JPG"
     ]
+  },  
+  {
+    "place1": "Seoul",
+    "place2": "South Korea",
+    "color1": "#A38174",
+    "color2": "#85A3AE",
+    "images": [      
+      "img/photography/library.JPG",
+      "img/photography/namsantower.JPG"
+    ]
   },
   {
     "place1": "Paris",

@@ -14,7 +14,6 @@ const Navigation = (): ReactElement => {
         <Link href={n.link}>
           <a target={n.target} rel="noopener noreferrer">
             <span className="nav-text"> {n.text} </span>
-            <img src={n.img} alt={n.text} />
           </a>
         </Link>
       </li>,
